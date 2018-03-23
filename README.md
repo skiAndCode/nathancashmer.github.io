@@ -3,7 +3,7 @@
 <html>
 <link href='webpage.css'type='text/css'rel='stylesheet'
   <body>
-    <title class='heading'>
+    <title>
       Nathan R Cashmer
     </title>
     <div class='table'>
